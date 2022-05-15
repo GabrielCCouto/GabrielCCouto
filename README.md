@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GabrielCCouto, 21 years old.
-- 👨‍🎓 4th year student of mechatronics engineering.
+- 👋 Hi, I’m @GabrielCCouto, 22 years old.
+- 👨‍🎓 5th year student of mechatronics engineering.
 - 👀 I’m interested in mechatronics engineering and related fields.
 - 🌱 I’m currently learning programming and microcontrollers like Arduino and ESP32.
 - 📫 How to reach me: LinkedIn <https://bit.ly/GabrielCoutoLinkedIn> and Instagram <https://bit.ly/gabrielhcouto>.
